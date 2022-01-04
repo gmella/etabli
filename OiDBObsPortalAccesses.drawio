@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T07:32:46.499Z" agent="5.0 (X11)" etag="FTfQAOhLjETLT3srWjia" version="16.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-04T08:01:09.288Z" agent="5.0 (X11)" etag="23tSrC3S6GuilvLPTpv8" version="16.1.4" type="github">
   <diagram id="yDxjqq3mJHBqZDXArIZp" name="Page-1">
     <mxGraphModel dx="2337" dy="2121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -201,7 +201,7 @@
           <mxGeometry x="25.067789473684343" y="20.366666666666674" width="21.934315789473686" height="21.933333333333334" as="geometry" />
         </mxCell>
         <mxCell id="PzDvmg0Q03V_2hOCLgDr-202" value=".htaccess" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#660000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.communications.journaling_rule;labelBackgroundColor=none;labelBorderColor=none;comic=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" parent="PzDvmg0Q03V_2hOCLgDr-109" vertex="1">
-          <mxGeometry x="85" y="149" width="52" height="58" as="geometry" />
+          <mxGeometry x="121" y="149" width="52" height="58" as="geometry" />
         </mxCell>
         <mxCell id="PzDvmg0Q03V_2hOCLgDr-227" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=default;labelBorderColor=#FFFFFF;comic=0;sketch=0;fontFamily=Helvetica;fontSize=9;fontColor=#230E3E;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;glass=0;dashPattern=1 1;opacity=80;" parent="PzDvmg0Q03V_2hOCLgDr-109" vertex="1">
           <mxGeometry x="-6" y="61.5" width="65" height="88.5" as="geometry" />
@@ -411,9 +411,9 @@
         <mxCell id="PzDvmg0Q03V_2hOCLgDr-243" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#B266FF;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.web_page;labelBackgroundColor=default;labelBorderColor=#FFFFFF;comic=0;fontFamily=Helvetica;fontSize=9;fontColor=#230E3E;" parent="1" vertex="1">
           <mxGeometry x="379" y="515" width="50" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="PzDvmg0Q03V_2hOCLgDr-247" value="&lt;div&gt;GET &lt;br&gt;&lt;/div&gt;&lt;div&gt;htaccess?col=PIONIER&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=#230E3E;labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="630" y="600" as="geometry">
-            <mxPoint x="72" y="-9" as="offset" />
+        <mxCell id="PzDvmg0Q03V_2hOCLgDr-247" value="&lt;div&gt;GET &lt;br&gt;&lt;/div&gt;&lt;div&gt;htaccess?col=PIONIER&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=#230E3E;labelBackgroundColor=default;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="618" y="585" as="geometry">
+            <mxPoint x="179" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PzDvmg0Q03V_2hOCLgDr-254" value="&lt;div style=&quot;font-size: 21px;&quot;&gt;DISTRIBUTED ARCHITECTURE&lt;/div&gt;&lt;div style=&quot;font-size: 21px;&quot;&gt;for &lt;br style=&quot;font-size: 21px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 21px;&quot;&gt;DATA ACCESS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;fontFamily=Helvetica;fontColor=#000000;labelBackgroundColor=none;labelBorderColor=#006633;sketch=1;shadow=0;rounded=0;" parent="1" vertex="1">
